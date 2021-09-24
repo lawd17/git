@@ -22,6 +22,7 @@ sudo apt update
 ```
 
 Debería salir algo como esto.
+
 ![01-ActualizarPaquetes](capturas/01-ActualizarPaquetes.png)
 
 Con esto procedemos a instalar git con el siguiente comando
@@ -88,9 +89,11 @@ sudo make prefix=/usr/local install
 ```
 
 Ejemplo del primero comando.
+
 ![Capt09-InstalarPaquete01ura](capturas/09-InstalarPaquete01.png)
 
 Ejemplo del segundo comando.
+
 ![10-InstalarPaquete02](capturas/10-InstalarPaquete02.png)
 
 El siguiente paso es ejecutar el comando en la __bash__ para reemplaza el proceso y permitir usar la versión que hemos instalado.
