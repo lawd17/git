@@ -1,3 +1,6 @@
+
+# Tarea01 - Instalación y configuración de Git
+
 # 1. Instalación de Git
 # 1.1 Instalación por defecto de Git
 En este ejemplo vamos a ver una instalación de Git en en sistema Linux, concretamente en un Ubuntu 18. Git es un sistema de control de versiones que nos permite a los desarrolladores crear nuestras aplicaciones, subirlas,  editarla, volver a una versión anterior, crear ramas, mesclar estas, entre otras características.
