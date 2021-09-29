@@ -31,7 +31,7 @@ Crear un fichero capitulo1.txt y guadar los cambios.
 ![04-fichero-capitulo](capturas/ej1/04-fichero-capitulo.png)
 
 
-![05-crear-fichero](capturasej1/05-crear-fichero.png)
+![05-crear-fichero](capturas/ej1/05-crear-fichero.png)
 
 
 Crear un commit y volver a ver los cambios del repositorio
@@ -190,6 +190,7 @@ Chacon, S. and Straub, B. Pro Git. Apress.
 __SOLUCIÓN__
 
 Cambiar de rama.
+
 ![01-cambiar-rama](capturas/ej7/01-cambiar-rama.PNG)
 
 Crear el fichero.
@@ -221,7 +222,7 @@ __SOLUCIÓN__
 
 Fusionamos las ramas.
 
-![02-fusion](capturas/ej8/02-fusion.png)
+![02-fusion](capturas/ej8/02-fusion.PNG)
 
 ![01-mensaje-fusion](capturas/ej8/01-mensaje-fusion.PNG)
 
@@ -280,6 +281,7 @@ Crear el fichero.
 ![02-modificar-fichero](capturas/ej9/02-modificar-fichero.PNG)
 
 Cambiar a la rama principal.
+
 ![03-cambiar-rama](capturas/ej9/03-cambiar-rama.PNG)
 
 Modificar el fichero.
@@ -291,9 +293,11 @@ Guardar los cambios y realizar el commit.
 ![05-añadir-fichero](capturas/ej9/05-añadir-fichero.PNG)
 
 Fusionar las ramas.
+
 ![06-merge](capturas/ej9/06-merge.PNG)
 
 Resolver el conflicto del merge.
+
 ![07-conflicto-fichero](capturas/ej9/07-conflicto-fichero.PNG)
 
 Guardas los cambios y realizar el commit del conflicto resuelto.
@@ -302,5 +306,5 @@ Guardas los cambios y realizar el commit del conflicto resuelto.
 
 Ver los cambios junto con las ramas.
 
-![09-historial-ramas](capturas/ej9/09-historial-ramas.png)
+![09-historial-ramas](capturas/ej9/09-historial-ramas.PNG)
 
