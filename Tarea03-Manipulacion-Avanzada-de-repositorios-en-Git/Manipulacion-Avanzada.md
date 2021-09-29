@@ -19,7 +19,7 @@ __SOLUCIÓN__
 
 Crear una carpeta __capitulos__ e iniciar el repositorio.
 
-![02-crear-repositorios](capturas\ej1\02-crear-repositorios.png)
+![02-crear-repositorios](capturas/ej1/02-crear-repositorios.png)
 
 
 Ver los cambios del repositorio.
@@ -31,7 +31,7 @@ Crear un fichero capitulo1.txt y guadar los cambios.
 ![04-fichero-capitulo](capturas/ej1/04-fichero-capitulo.png)
 
 
-![05-crear-fichero](capturas/ej1/05-crear-fichero.png)
+![05-crear-fichero](capturasej1/05-crear-fichero.png)
 
 
 Crear un commit y volver a ver los cambios del repositorio
@@ -86,17 +86,17 @@ __SOLUCIÓN__
 
 Crear el fichero “capitulo3.txt” e introducir la siguiente información.
 
-![01-crear-fichero](capturas/ej3/01-crear-fichero01.png)
+![01-crear-fichero](capturas/ej3/01-crear-fichero01.PNG)
 
-![02-crear-fichero02](capturas/ej3/02-crear-fichero02.png)
+![02-crear-fichero02](capturas/ej3/02-crear-fichero02.PNG)
 
 Añadir los cambios y realizar el commit con el siguiente mensaje.
 
-![03-añadir-capitulo](capturas/ej3/03-añadir-capitulo.png)
+![03-añadir-capitulo](capturas/ej3/03-añadir-capitulo.PNG)
 
 Comprobar los cambios entre la primera y la ultima versión.
 
-![04-comprobacion-primera-con-ultima](capturas/ej3/04-comprobacion-primera-con-ultima.png)
+![04-comprobacion-primera-con-ultima](capturas/ej3/04-comprobacion-primera-con-ultima.PNG)
 
 
 ## Ejercicio 4.
@@ -137,7 +137,7 @@ __SOLUCIÓN__
 
 Crear y mostrar ramas
 
-![01-crear-indice01](capturas/ej5/01-crear-y-consultar-ramas.png)
+![01-crear-indice01](capturas/ej5/01-crear-y-consultar-ramas.PNG)
 
 
 ## Ejercicio 6.
@@ -156,21 +156,21 @@ __SOLUCIÓN__
 
 Crear el fichero.
 
-![01-crear-fichero01](capturas/ej6/01-crear-fichero01.png)
+![01-crear-fichero01](capturas/ej6/01-crear-fichero01.PNG)
 
-![02-crear-fichero02](capturas/ej6/02-crear-fichero02.png)
+![02-crear-fichero02](capturas/ej6/02-crear-fichero02.PNG)
 
 Añadir los cambios a la zona de intercambio temporal.
 
-![03-git-add](capturas/ej6/03-git-add.png)
+![03-git-add](capturas/ej6/03-git-add.PNG)
 
 Realizar el commit.
 
-![04-crear-commit](capturas/ej6/04-crear-commit.png)
+![04-crear-commit](capturas/ej6/04-crear-commit.PNG)
 
 Ver la información de cambios y las ramas.
 
-![05-historial-con-ramas](capturas/ej6/05-historial-con-ramas.png)
+![05-historial-con-ramas](capturas/ej6/05-historial-con-ramas.PNG)
 
 ## Ejercicio 7.
 
@@ -190,21 +190,21 @@ Chacon, S. and Straub, B. Pro Git. Apress.
 __SOLUCIÓN__
 
 Cambiar de rama.
-![01-cambiar-rama](capturas/ej7/01-cambiar-rama.png)
+![01-cambiar-rama](capturas/ej7/01-cambiar-rama.PNG)
 
 Crear el fichero.
 
-![02-crear-fichero01](capturas/ej7/02-crear-fichero01.png)
+![02-crear-fichero01](capturas/ej7/02-crear-fichero01.PNG)
 
-![03-crear-fichero02](capturas/ej7/03-crear-fichero02.png)
+![03-crear-fichero02](capturas/ej7/03-crear-fichero02.PNG)
 
 Crear el commit.
 
-![04-añadir-fichero](capturas/ej7/04-añadir-fichero.png)
+![04-añadir-fichero](capturas/ej7/04-añadir-fichero.PNG)
 
 Ver toda la información con las ramas.
 
-![05-consultar-cambios-y-ramas](capturas/ej7/05-consultar-cambios-y-ramas.png)
+![05-consultar-cambios-y-ramas](capturas/ej7/05-consultar-cambios-y-ramas.PNG)
 
 
 ## Ejercicio 8.
@@ -223,19 +223,19 @@ Fusionamos las ramas.
 
 ![02-fusion](capturas/ej8/02-fusion.png)
 
-![01-mensaje-fusion](capturas/ej8/01-mensaje-fusion.png)
+![01-mensaje-fusion](capturas/ej8/01-mensaje-fusion.PNG)
 
 Vemos los cambios con las ramas
 
-![03-historial-cambios](capturas/ej8/03-historial-cambios.png)
+![03-historial-cambios](capturas/ej8/03-historial-cambios.PNG)
 
 Borramos la rama __bibliografia__.
 
-![04-eliminar-rama](capturas/ej8/04-eliminar-rama.png)
+![04-eliminar-rama](capturas/ej8/04-eliminar-rama.PNG)
 
 Volvemos a consultar los cambios.
 
-![05-historia-ramas](capturas/ej8/05-historia-ramas.png)
+![05-historia-ramas](capturas/ej8/05-historia-ramas.PNG)
 
 
 ## Ejercicio 9.
@@ -273,32 +273,32 @@ __SOLUCIÓN__
 
 Crear y cambiar de rama.
 
-![01-crear-acceder-rama](capturas/ej9/01-crear-acceder-rama.png)
+![01-crear-acceder-rama](capturas/ej9/01-crear-acceder-rama.PNG)
 
 Crear el fichero.
 
-![02-modificar-fichero](capturas/ej9/02-modificar-fichero.png)
+![02-modificar-fichero](capturas/ej9/02-modificar-fichero.PNG)
 
 Cambiar a la rama principal.
-![03-cambiar-rama](capturas/ej9/03-cambiar-rama.png)
+![03-cambiar-rama](capturas/ej9/03-cambiar-rama.PNG)
 
 Modificar el fichero.
 
-![04-volver-a-modifcar](capturas/ej9/04-volver-a-modifcar.png)
+![04-volver-a-modifcar](capturas/ej9/04-volver-a-modifcar.PNG)
 
 Guardar los cambios y realizar el commit.
 
-![05-añadir-fichero](capturas/ej9/05-añadir-fichero.png)
+![05-añadir-fichero](capturas/ej9/05-añadir-fichero.PNG)
 
 Fusionar las ramas.
-![06-merge](capturas/ej9/06-merge.png)
+![06-merge](capturas/ej9/06-merge.PNG)
 
 Resolver el conflicto del merge.
-![07-conflicto-fichero](capturas/ej9/07-conflicto-fichero.png)
+![07-conflicto-fichero](capturas/ej9/07-conflicto-fichero.PNG)
 
 Guardas los cambios y realizar el commit del conflicto resuelto.
 
-![08-resuelto-conflico](capturas/ej9/08-resuelto-conflico.png)
+![08-resuelto-conflico](capturas/ej9/08-resuelto-conflico.PNG)
 
 Ver los cambios junto con las ramas.
 
