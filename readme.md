@@ -8,6 +8,6 @@ Repositorio que se va a usar para realizar tareas de como trabajar e usar la her
 
 ## 3 [Tarea 03 - Manipular Repositorios avanzado en Git](Tarea03-Manipulacion-Avanzada-de-repositorios-en-Git/Manipulacion-Avanzada.md)
 
-## 4 [Tarea 04 - Instalación de GitLab](Tarea03-Manipulacion-Avanzada-de-repositorios-en-Git\Manipulacion-Avanzada.md)
+## 4 [Tarea 04 - Instalación de GitLab](Tarea04-Intalacion-GitLab\Instalacion-GitLab.md)
 
 
