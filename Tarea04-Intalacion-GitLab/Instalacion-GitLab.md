@@ -4,7 +4,7 @@ Vamos a realizar la instalación de GitLab, así como su configurador. En este e
 ## 1.1 Actualizar.
 Primero vamos a actualizar tanto las librerías como el sistema para esto vamos a usar el siguiente comando.
 ```
- -> sudo apt update && sudo apt upgrade
+sudo apt update && sudo apt upgrade
 ```
 
 ![01-update-upgrade](capturas/01-update-upgrade.png)
@@ -12,7 +12,7 @@ Primero vamos a actualizar tanto las librerías como el sistema para esto vamos 
 1.2 Instalación paquetes.
 Vamos a instalar una serie de paquete necesarios para instalar GitLab en nuestro sistema, para esto realizamos el comando en nuestra maquina.
 ```
- ->   sudo apt install -y vim curl ca-certificates apt-transport-https
+sudo apt install -y vim curl ca-certificates apt-transport-https
 ```
 
 ![02-dependiencias](capturas/02-dependiencias.png)
@@ -20,14 +20,14 @@ Vamos a instalar una serie de paquete necesarios para instalar GitLab en nuestro
 1.3 Instalar GitLab.
 Primer para instalar GitLab realizamos un curl como el siguiente:
 ```
- -> curl -s https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh | sudo bash
+curl -s https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh | sudo bash
 ```
 
 ![03-install](capturas/03-install.png)
 
 y ahora si realizamos la instalación .
 ```
- ->  sudo apt install gitlab-ce
+sudo apt install gitlab-ce
 ```
 
 ![04-install-gitlab](capturas/04-install-gitlab.png)
@@ -39,7 +39,7 @@ Comprobamos que al final nos muestro lo siguiente para asegurarnos de que se ha 
 
 Con GitLab instalado deberemos realizar el siguiente comando para dejar configurado la herramienta.
 ```
- ->  sudo gitlab-ctl reconfigure
+sudo gitlab-ctl reconfigure
 ```
 
 ![06-gitlab-config](capturas/06-gitlab-config.png)
